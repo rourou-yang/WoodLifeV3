@@ -1,4 +1,4 @@
-# woodlife
+# Woodlife
 
 ## Project setup
 ```

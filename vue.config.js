@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/wood-life/dist/'
+  publicPath: '/WoodLifeV3/dist/'
 }
